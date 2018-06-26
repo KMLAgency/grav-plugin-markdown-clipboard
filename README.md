@@ -4,7 +4,7 @@
 
 Demo available on [ClipboardJS](https://clipboardjs.com/) website, or on the [Grav Doc](https://learn.getgrav.org/).
 
-![Demo Screenshot](assets/screenshot.jpg)
+![Demo Screenshot](assets/readme.jpg)
 
 # Manual installation
 
