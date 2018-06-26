@@ -20,7 +20,7 @@ Nothing to do, this plugin only inject a CSS and a JS file into your grav page!
 
 # Extra Config
 
-If you use a theme or another plugin (such as [Xtra Features](https://github.com/StellarisStudio/grav-plugin-xtrafeatures) which contains the Font Awesome, you can change the word "copy" to use an icon. In the JS folder, open the `clipboard.min.init.js` file in which you will find, at the bottom, the ClipboardJS inception code!. _(example with [Font Awesome 5](https://fontawesome.com/))_
+If you use a theme or another plugin (such as [Xtra Features](https://github.com/StellarisStudio/grav-plugin-xtrafeatures)) which contains the Font Awesome, you can change the word "copy" to use an icon. In the JS folder, open the `clipboard.min.init.js` file in which you will find, at the bottom, the ClipboardJS inception code!. _(example with [Font Awesome 5](https://fontawesome.com/))_
 
 ```js
 Line 19, button.textContent = 'copy';
